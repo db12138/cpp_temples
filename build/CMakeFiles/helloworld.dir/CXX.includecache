@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/cz/wintercoder/learncpp/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+deque
+-
+list
+-
+map
+-
+string
+-
+queue
+-
+

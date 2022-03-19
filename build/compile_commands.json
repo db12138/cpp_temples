@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/cz/wintercoder/learncpp/build",
+  "command": "/usr/bin/clang++  -std=c++17 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -o CMakeFiles/helloworld.dir/main.cpp.o -c /Users/cz/wintercoder/learncpp/main.cpp",
+  "file": "/Users/cz/wintercoder/learncpp/main.cpp"
+}
+]
